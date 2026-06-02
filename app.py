@@ -4,8 +4,9 @@ from PIL import Image
 # Sayfa Tasarımı
 st.set_page_config(page_title="Ege AgroAI - Profesyonel Teşhis", page_icon="🌱", layout="centered")
 
-st.markdown("<h1 style='text-align: center; color: #2E7D32;'>🌱 Ege AgroAI</h1>", unsafe_with_html=True)
-st.markdown("<h3 style='text-align: center; color: #4CAF50;'>Kategori Korumalı Akıllı Teşhis Sistemi</h3>", unsafe_with_html=True)
+# Başlıkları güvenli standart formatta yazıyoruz
+st.title("🌱 Ege AgroAI")
+st.subheader("Kategori Korumalı Akıllı Teşhis Sistemi")
 st.write("---")
 
 # Etiketleri yükleme fonksiyonu
@@ -25,7 +26,7 @@ try:
         st.image(image, caption="Yüklenen Örnek Görsel", use_column_width=True)
         st.write("---")
         
-        # 2. KATEGORİ SEÇİM AŞAMASI (İstediğiniz 1. Kural)
+        # 2. KATEGORİ SEÇİM AŞAMASI
         categories = ["Seçiniz...", "Apple (Elma)", "Banana (Muz)", "Carrot (Havuç)", "Corn (Mısır)", 
                       "Cucumber (Salatalık)", "Fig (İncir)", "Grape (Üzüm)", "Lemon (Limon)", 
                       "Onion (Soğan)", "Orange (Portakal)", "Peach (Şeftali)", "Pear (Armut)", 
@@ -39,7 +40,7 @@ try:
             
             st.info("🔄 Görseliniz 147 Sınıflı Fruits 360 Çekirdeği ile analiz ediliyor...")
             
-            # 3. AKILLI FİLTRELEME VE TAHMİN (İstediğiniz 2. Kural: Yanlış tahmini önleyen koruma)
+            # 3. AKILLI FİLTRELEME VE TAHMİN
             valid_indices = []
             for idx, item in enumerate(data_list):
                 if item[0].lower().startswith(cat_keyword):
@@ -61,16 +62,16 @@ try:
             # 4. SONUÇLARI GÖSTERME AŞAMASI
             model_sinif_adi = data_list[final_idx][0]
             hastalik_adi = data_list[final_idx][1]
-            tedavi_yontemi = data_list[data_list.index(data_list[final_idx])][2] if len(data_list[final_idx]) > 2 else "Genel bakım ve sulama önerilir."
+            tedavi_yontemi = data_list[final_idx][2] if len(data_list[final_idx]) > 2 else "Genel bakım ve sulama önerilir."
             
             st.success("### 📊 Analiz Tamamlandı!")
             
-            # İstediğin gibi: Kırmızı kutuda hastalık adı
+            # Kırmızı kutuda hastalık adı
             st.error(f"**Teşhis Edilen Sağlık Durumu / Hastalık:** {hastalik_adi}")
-            # İstediğin gibi: %90 üstü güven oranı
+            # %90 üstü güven oranı
             st.warning(f"**🎯 Model Güven (Hastalık) Oranı:** %{confidence_score:.2f}")
             
-            # İstediğin gibi: En bilinen tedaviler
+            # En bilinen tedaviler
             st.markdown("### 🩺 İnternette En Çok Bilinen Tedavi Yöntemleri")
             st.info(tedavi_yontemi)
             st.caption(f"Sistem Kimliği: {model_sinif_adi} | 147 Sınıflı Fruits 360")
