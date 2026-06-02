@@ -1,0 +1,147 @@
+Apple_10|Sağlıklı Elma|Düzenli budama yapın, yaprak döküntülerini temizleyin ve ağacı besleyin.
+Apple_11|Sağlıklı Elma (Varyant)|Düzenli sulama yapın, ağaç altındaki kurumuş yaprakları temizleyin.
+Apple_12|Sağlıklı Elma (Varyant)|Toprak nemini koruyun, kışlık bakımları ihmal etmeyin.
+Apple_13|Sağlıklı Elma (Varyant)|Ağaç aralarını açık tutarak hava sirkülasyonu sağlayın.
+Apple_14|Elma Karalekesi (Hafif)|Budama yapın, erken dönemde bakırlı fungisit uygulayın.
+Apple_17|Elma Karalekesi (İleri)|Enfekte dalları kesin, kireç sülfür veya koruyucu mantar ilacı kullanın.
+Apple_18|Elma Küllemesi|Kükürtlü ilaçlama yapın, hastalıklı sürgünleri budayıp imha edin.
+Apple_19|Elma Siyah Çürüğü|Mantar ilacı püskürtün, ağaç gövdesindeki kanserli yaraları kazıyıp macunlayın.
+Apple_20|Elma Pas Hastalığı|Ardıç ağaçlarıyla mesafeyi koruyun, sistemik fungisitler kullanın.
+Apple_21|Elma Acı Benek|Kalsiyum nitrat gübrelemesi yapın, toprağın su dengesini koruyun.
+Apple_22|Ateş Yanıklığı (Başlangıç)|Budama aletlerini dezenfekte edin, bakırlı bileşikler sıkın.
+Apple_23|Ateş Yanıklığı (İleri)|Enfekte dalı 20 cm alttan kesip yakın, ağaca antibakteriyel koruma uygulayın.
+Apple_3|Sağlıklı Yeşil Elma|Düzenli budama yapın, yaprak döküntülerini temizleyin.
+Apple_7|Sağlıklı Kırmızı Elma|Toprak nemini koruyun, kışlık bakımları ihmal etmeyin.
+Apple_8|Sağlıklı Amasya Elması|Ağaç aralarını açık tutarak hava sirkülasyonu sağlayın.
+Apple_9|Sağlıklı Elma|Düzenli sulama yapın, ağaç altındaki kurumuş yaprakları temizleyin.
+Apple_Braeburn_1|Sağlıklı Braeburn Elma|Meyve seyreltmesi yapın, kalsiyum dengesini koruyun.
+Apple_Crimson_Snow_1|Sağlıklı Crimson Elma|Düzenli sulama ve dengeli azot gübrelemesi uygulayın.
+Apple_Golden_1|Sağlıklı Golden Elma|Meyve paslanmasına karşı aşırı nemden kaçının.
+Apple_Golden_2|Sağlıklı Golden Elma|Meyve paslanmasına karşı aşırı nemden kaçının.
+Apple_Golden_3|Sağlıklı Golden Elma|Meyve paslanmasına karşı aşırı nemden kaçının.
+Apple_Granny_Smith_1|Sağlıklı Granny Smith|Güneş yanıklığına karşı gölgeleme veya koruyucu kaolin kili kullanın.
+Apple_Pink_Lady_1|Sağlıklı Pink Lady|Hasat öncesi sulamayı dengeli tutun, potasyum takviyesi yapın.
+Apple_Red_1|Sağlıklı Kırmızı Elma|Düzenli budama ve güneşlenme alanlarını artırma çalışması yapın.
+Apple_Red_2|Sağlıklı Kırmızı Elma|Düzenli budama ve güneşlenme alanlarını artırma çalışması yapın.
+Apple_Red_3|Sağlıklı Kırmızı Elma|Düzenli budama ve güneşlenme alanlarını artırma çalışması yapın.
+Apple_Red_Delicious_1|Sağlıklı Red Delicious|İç kurduna karşı tuzaklama yapın, kalsiyum takviyesi verin.
+Apple_Red_Yellow_1|Sağlıklı Al Elma|Dengeli sulama yapın, azotlu gübrelemeyi aşırıya kaçırmayın.
+Banana_1|Sağlıklı Muz|Dengeli potasyum gübrelemesi yapın, söküm temizliğine dikkat edin.
+Banana_3|Muz Panama Hastalığı|Enfekte bitkiyi sökün, toprağı dezenfekte edin, dayanıklı rizom kullanın.
+Banana_4|Muz Sigatoka Yaprak Lekesi|Hava sirkülasyonunu artırın, mineral yağlar ve sistemik fungisit kullanın.
+Banana_Lady_Finger_1|Sağlıklı Bodur Muz|Aşırı sulamadan kaçının, kök çürüklüğüne karşı drenajı açın.
+Banana_Red_1|Sağlıklı Kırmızı Muz|Toprak organik maddesini zenginleştirin, magnezyum takviyesi yapın.
+Carrot_1|Havuç Nematod Hasarı|Toprağı solarize edin, kadife çiçeği ekerek rotasyon uygulayın.
+Corn_1|Sağlıklı Mısır|Dengeli azot ve fosfor gübrelemesi yapın, yabancı ot mücadelesi yapın.
+Corn_Husk_1|Mısır Rastığı (Ur)|Genç galleri (urları) patlamadan toplayıp yakın, ekim nöbeti uygulayın.
+Cucumber_1|Sağlıklı Salatalık|Damlama sulama yapın, yaprakların ıslanmasını engelleyin.
+Cucumber_10|Salatalık Küllemesi|Kükürt bazlı ilaçlar veya potasyum bikarbonat çözeltisi püskürtün.
+Cucumber_11|Salatalık Mildiyösü|Nemi düşürün, bakırlı ilaçlar veya mancozeb içerikli fungisit kullanın.
+Cucumber_12|Salatalık Köşeli Yaprak Lekesi|Bakır oksiklorür uygulayın, serayı iyice havalandırın.
+Cucumber_13|Salatalık Mozaik Virüsü|Afitle (yaprak biti) mücadele edin, enfekte bitkileri seradan uzaklaştırın.
+Cucumber_3|Sağlıklı Salatalık|Damlama sulama yapın, yaprakların ıslanmasını engelleyin.
+Cucumber_4|Salatalık Kök Çürüklüğü|Toprak drenajını artırın, trichoderma harzianum gibi biyolojik ajanlar kullanın.
+Cucumber_5|Salatalık Antraknozu|Sertifikalı tohum kullanın, koruyucu fungisit ilaçlaması yapın.
+Cucumber_6|Salatalık Solgunluğu|Vektör böceklerle (böcek tuzakları) mücadele edin, dayanıklı çeşit seçin.
+Cucumber_7|Salatalık Beyaz Sinek Hasarı|Sarı yapışkan tuzaklar kullanın, neem yağı veya böcek sabunu püskürtün.
+Cucumber_8|Salatalık Kırmızı Örümcek|Nemi artırın, spesifik akarisit ilaçlaması yapın.
+Cucumber_9|Salatalık Demir Eksikliği|Toprak pH'ını düşürün, yapraktan şelatlı demir uygulaması yapın.
+Fig_1|Incir Pas Hastalığı|Dökülen yaprakları toplayıp yakın, bakır içeren fungisit kullanın.
+Grape_1|Sağlıklı Üzüm|Bağ budamasını iyi yapın, asma altını temiz tutun.
+Grape_Blue_1|Bağ Mildiyösü|Sürgünler 20-25 cm iken bakırlı ilaçlamaya başlayın, nemi azaltın.
+Grape_Pink_1|Bağ Küllemesi|Çiçeklenme öncesi ve sonrası sistemik kükürt uygulaması yapın.
+Grape_White_1|Asma Kav Hastalığı (Esca)|Budama yaralarına ardıç katranı veya yara macunu sürün, aletleri sterilize edin.
+Grape_White_2|Bağ Siyah Çürüğü|Bağda hava akımını engelleyen yaprakları seyreltin, fungisit uygulayın.
+Grape_White_3|Bağ Ölü Kol Hastalığı|Kış budamasında hastalıklı çubukları temizleyin, gözler uyanırken ilaçlayın.
+Grape_White_4|Kurşuni Küf (Botrytis)|Salkım seyreltmesi yapın, salkım güvesi ile mücadele edin, spesifik ilaç kullanın.
+Grape_pink_3|Bağ Küllemesi (İleri)|Sistemik mantar ilaçları kullanın, salkım çevresindeki yaprakları alın.
+Lemon_1|Sağlıklı Limon|Uçkurutan hastalığına karşı kışın bakırlı ilaçlama yapın.
+Lemon_Meyer_1|Limon Yaprak Galeri Güvesi|Yaz sürgünlerini korumak için neem yağı veya sistemik insektisit uygulayın.
+Onion_2|Sağlıklı Soğan|Toprak drenajını iyi sağlayın, ekim nöbeti uygulayın.
+Onion_Red_1|Soğan Mildiyösü|Sık ekimden kaçının, sistemik fungisitler kullanın.
+Onion_Red_2|Soğan Boyun Çürüklüğü|Hasat sonrası soğanları iyi kurutun, depolama nemini %65 altında tutun.
+Onion_Red_3|Soğan Kök Çürüklüğü|Toprağı solarize edin, aşırı sulamadan kaçının.
+Onion_White_1|Soğan Sürmesi|Tohum ilaçlaması yapın, hastalıklı alanlara en az 5 yıl soğan ekmeyin.
+Onion_White_2|Soğan Thrips Hasarı|Mavi yapışkan tuzaklar kullanın, uygun insektisitlerle müdahale edin.
+Orange_1|Sağlıklı Portakal|Gövde zamklanmasına karşı aşı noktasını yüksek tutun, bakır sürün.
+Orange_2|Portakal Sarılığı (Uçkurutan)|Budama aletlerini dezenfekte edin, budanan dallara yara macunu sürün.
+Orange_3|Narenciye Kırmızı Örümceği|Yazlık yağlar kullanın, biyolojik mücadelede avcı akarları koruyun.
+Orange_peeled_1|Portakal Kabuk Soyulma Hasarı|Meyve tutumu sonrası kalsiyum ve bor içerikli yaprak gübresi uygulayın.
+Peach_1|Sağlıklı Şeftali|Yaprak kıvırcıklığına karşı sonbaharda bordo bulamacı atın.
+Peach_2|Şeftali Yaprak Kıvırcıklığı|Tomurcuklar patlamadan önce %2'lik bordo bulamacı uygulayın.
+Peach_3|Şeftali Kahverengi Çürüğü|Enfekte meyveleri toplayıp gömün, çiçeklenme döneminde ilaçlama yapın.
+Peach_4|Şeftali Çil Hastalığı|Yaprak dökümünde bordo bulamacı, çiçeklenme sonrası fungisit uygulayın.
+Peach_5|Şeftali Küllemesi|Sistemik mantar ilaçları kullanın, aşırı azotlu gübrelemeden kaçının.
+Peach_6|Şeftali Bakteriyel Lekesi|Sonbahar ve ilkbaharda bakırlı ilaçlama yapın, dayanıklı çeşit seçin.
+Peach_7|Şeftali Pas Hastalığı|Yaz döneminde kükürt veya ditiokarbamatlı fungisitler kullanın.
+Peach_Flat_1|Sağlıklı Yassı Şeftali|Meyve seyreltmesini zamanında yapın, havalandırmayı iyi sağlayın.
+Pear_1|Sağlıklı Armut|Armut memeli pasına karşı ardıç ağaçlarını çevreden uzaklaştırın.
+Pear_10|Armut Memeli Pas Hastalığı|Çiçek taç yaprakları dökülünce sistemik mantar ilaçlaması yapın.
+Pear_11|Armut Karalekesi|Yere düşen yaprakları sürün veya yakın, çiçeklenme dönemi ilaçlayın.
+Pear_12|Armut Ateş Yanıklığı|Budama aletlerini %10'luk çamaşır suyuna batırın, bakırlı ilaç atın.
+Pear_13|Armut Yaprak Pireleri|Kışlık yağ uygulaması yapın, yoğunluk artarsa insektisit kullanın.
+Pear_14|Armut Kanser Hastalığı|Kanserli yaraları temiz dokuya kadar kazıyıp %5'lik göztaşı sürün.
+Pear_2|Sağlıklı Armut|Armut memeli pasına karşı ardıç ağaçlarını çevreden uzaklaştırın.
+Pear_3|Sağlıklı Armut|Yere düşen yaprakları sürün veya yakın, çiçeklenme dönemi ilaçlayın.
+Pear_5|Sağlıklı Armut|Budama aletlerini %10'luk çamaşır suyuna batırın, bakırlı ilaç atın.
+Pear_6|Sağlıklı Armut|Armut Yaprak Pirelerine karşı kışlık yağ uygulaması yapın.
+Pear_7|Sağlıklı Armut|Kanserli yaraları temiz dokuya kadar kazıyıp %5'lik göztaşı sürün.
+Pear_8|Sağlıklı Armut|Düzenli sulama yapın, ağaç altındaki kurumuş yaprakları temizleyin.
+Pear_9|Sağlıklı Armut|Toprak nemini koruyun, kışlık bakımları ihmal etmeyin.
+Pear_Abate_1|Sağlıklı Abate Armut|Dengeli budama yapın, kalsiyum içerikli yaprak gübreleri uygulayın.
+Pear_Forelle_1|Sağlıklı Forelle Armut|Erken dönem karaleke kontrollerini sıklaştırın.
+Pear_Kaiser_1|Sağlıklı Kaiser Armut|Meyve sapı mukavemeti için bor ve çinko uygulaması yapın.
+Pear_Monstera_1|Sağlıklı Armut|Hava sirkülasyonunu artırın, nemli ortamları azaltın.
+Pear_Red_1|Sağlıklı Kırmızı Armut|Güneş yanıklığına karşı gölgeleme tülleri veya kaolin uygulayın.
+Pear_Stone_1|Sağlıklı Taş Armut|Taşlaşma bozukluğuna karşı bor içerikli gübreleme yapın.
+Pear_Williams_1|Sağlıklı Williams Armut|Hasat zamanlamasına dikkat edin, soğuk zincirde muhafaza edin.
+Pepper_1|Sağlıklı Biber|Fide döneminde kök boğazı çürüklüğüne karşı koruyucu ilaçlama yapın.
+Pepper_2|Sağlıklı Biber|Fide döneminde kök boğazı çürüklüğüne karşı koruyucu ilaçlama yapın.
+Pepper_Green_1|Sağlıklı Yeşil Biber|Küllemeye karşı serayı havalandırın, damlama sulama yapın.
+Pepper_Orange_1|Biber Bakteriyel Lekesi|Bakırlı fungisit kullanın, tohumları dezenfekte edin, bitkiyi üstten sulamayın.
+Pepper_Orange_2|Biber Kök Çürüklüğü (Phytophthora)|Toprak drenajını düzeltin, karık sırtına dikim yapın, aşırı sulamayın.
+Pepper_Red_1|Biber Antraknozu|Mantar ilacı uygulayın, hastalıklı meyveleri koparıp imha edin.
+Pepper_Red_2|Biber Küllemesi|İlk belirtilerde kükürtlü ilaçlama veya sistemik fungisit uygulayın.
+Pepper_Red_3|Biber Beyaz Sinek Zararı|Sarı yapışkan tuzaklar asın, neem yağı veya kimyasal insektisit kullanın.
+Pepper_Red_4|Biber Thrips Hasarı|Mavi yapışkan tuzaklar kullanın, biyolojik mücadelede avcı böcekleri koruyun.
+Pepper_Red_8|Biber Mozaik Virüsü (TMV)|Virüslü bitkileri söküp yakın, tütün ürünleri kullandıktan sonra elleri yıkayın.
+Pepper_Yellow_1|Biber Demir Noksanlığı|Toprağa demir şelatı uygulayın, yüksek pH'lı toprakları jips ile ıslah edin.
+Plum_1|Sağlıklı Erik|Ceps (erik cücüklüğü) hastalığına karşı çiçek dökümünde ilaçlama yapın.
+Plum_2|Erik Cep Hastalığı|Tomurcuklar kabarmadan bordo bulamacı, çiçek taç yaprakları dökülünce fungisit atın.
+Plum_3|Erik Pas Hastalığı|Yaz aylarında ditiokarbamat grubu fungisitlerle koruyucu önlem alın.
+Plum_4|Erik Yaprak Delme (Çil)|Yaprak dökümünde ve ilkbaharda tomurcuklar patlamadan önce bakırlı ilaç uygulayın.
+Plum_5|Erik Monilya Hastalığı|Kuruyan dalları kesip yakın, çiçeklenme başlangıcı ve tam çiçekte ilaçlayın.
+Potato_Red_1|Sağlıklı Patates|Sertifikalı tohumluk yumru kullanın, patates böceği kontrolü yapın.
+Potato_Red_2|Patates Erken Yanıklığı|Mantar ilacı püskürtün, dengeli azot gübrelemesi yapın, sulamayı sabah yapın.
+Potato_Russet_1|Patates Geç Yanıklığı (Mildiyö)|Nispi nem %90 üzerine çıktığında koruyucu fungisit uygulayın, hastalıklı bitkileri sökün.
+Potato_White_1|Patates Adi Uyuz Hastalığı|Toprak pH'ını kükürt ile düşürün, yumru bağlama döneminde toprağı nemli tutun.
+Quince_1|Sağlıklı Ayva|Ayva yaprak lekesine karşı çiçeklenme öncesi ve sonrası ilaçlama yapın.
+Quince_2|Ayva Yaprak Lekesi|Yere düşen yaprakları imha edin, çiçek açmadan önce ve çiçek dökümü sonrası fungisit kullanın.
+Quince_3|Ayva Monilya (Mumyalama)|Kuruyup ağaçta kalan mumya meyveleri toplayıp yakın, çiçekte ilaçlama yapın.
+Quince_4|Ayva Ateş Yanıklığı|Bakteriyel sızıntı görülen dalları steril aletlerle budayıp macunlayın, bakır atın.
+Strawberry_1|Sağlıklı Çilek|Meyvelerin toprakla temasını önlemek için altlarına saman veya malç serin.
+Strawberry_2|Çilek Kurşuni Küf (Botrytis)|Sık dikimden kaçının, nemi azaltın, çiçeklenme döneminde spesifik fungisit uygulayın.
+Strawberry_3|Çilek Küllemesi|İlk lekeler görüldüğünde kükürt veya sistemik mantar ilaçlaması yapın.
+Strawberry_Wedge_1|Çilek Antraknozu|Sertifikalı temiz fide kullanın, yağmurlama sulamayı bırakıp damlamaya geçin.
+Tomato_1|Sağlıklı Domates|Damlama sulama yapın, alt yaprakları budayarak hava akımını artırın.
+Tomato_10|Domates Erken Yanıklığı|Mantar ilacı uygulayın, bitkiyi üstten sulamayın, alt yaprakları seyreltin.
+Tomato_11|Domates Geç Yanıklığı (Mildiyö)|Bakırlı fungisit veya mancozeb kullanın, sık dikim yapmayın, nemi düşürün.
+Tomato_2|Domates Bakteriyel Lekesi|Sertifikalı tohum kullanın, bakır bileşikleri püskürtün, serayı havalandırın.
+Tomato_3|Domates Yaprak Küfü|Sera nemini %70 altında tutun, fanları çalıştırın, koruyucu ilaçlama yapın.
+Tomato_4|Domates Mozaik Virüsü|Enfekte bitkiyi sökün, serada sigara içilmesini yasaklayın, aletleri dezenfekte edin.
+Tomato_6|Domates Küllemesi|Kükürt bazlı mantar ilaçları uygulayın, yabancı ot mücadelesi yapın.
+Tomato_7|Domates Lekeli Solgunluk Virüsü (TSWV)|Thrips zararlısı ile sistemik insektisitler kullanarak mücadele edin.
+Tomato_8|Domates Kırmızı Örümcek Zararı|Spesifik akarisit ilaçlama yapın, seradaki kuru havayı engellemek için nemi dengeleyin.
+Tomato_9|Domates Demir Eksikliği|Topraktan veya yapraktan şelatlı demir gübrelemesi uygulayın.
+Tomato_Cherry_Maroon_1|Sağlıklı Çilek Domates|Düzenli kalsiyum takviyesi yapın, çiçek burnu çürüklüğünü engelleyin.
+Tomato_Cherry_Orange_1|Sağlıklı Turuncu Çeri|Meyve tutumu sonrası potasyum ağırlıklı besleme yapın.
+Tomato_Cherry_Red_1|Sağlıklı Kırmızı Çeri|Meyve tutumu sonrası potasyum ağırlıklı besleme yapın.
+Tomato_Cherry_Red_2|Sağlıklı Kırmızı Çeri|Meyve tutumu sonrası potasyum ağırlıklı besleme yapın.
+Tomato_Cherry_Yellow_1|Sağlıklı Sarı Çeri|Aşırı gece/gündüz sıcaklık farklarına karşı serayı koruyun.
+Tomato_Flavored_1|Sağlıklı Salkım Domates|Düzenli koltuk alma budaması yapın, ana gövdeyi destekleyin.
+Tomato_Maroon_1|Sağlıklı Kahverengi Domates|Toprak nemini sabit tutarak meyve çatlamalarını önleyin.
+Tomato_Maroon_2|Sağlıklı Kahverengi Domates|Toprak nemini sabit tutarak meyve çatlamalarını önleyin.
+Tomato_Yellow_1|Sağlıklı Sarı Domates|Güneş yanıklığına karşı yaprak örtüsünü aşırı budamayın.
+Walnut_1|Ceviz Antraknozu|Yere düşen yaprakları sonbaharda toplayıp yakın, ilkbaharda bakırlı ilaç uygulayın.
+Watermelon_1|Karpuz Fusarium Solgunluğu|Aynı toprağa üst üste karpuz ekmeyin, aşılı fide kullanın, toprağı solarize edin.
+orange_4|Narenciye Pas Böcüsü|Kükürtlü ilaçlar veya spesifik akarisitler kullanarak meyve kabuğunun matlaşmasını önleyin.
