@@ -1,5 +1,5 @@
 import streamlit as st
-import tensorflow as tf
+import tflite_runtime.interpreter as tflite
 import numpy as np
 from PIL import Image
 
@@ -12,8 +12,8 @@ st.write("---")
 
 @st.cache_resource
 def load_ai_model():
-    # Klasördeki tflite modelini yükler
-    interpreter = tf.lite.Interpreter(model_path="ege_agroai_saf_model.tflite")
+    # tflite_runtime ile modeli yükler
+    interpreter = tflite.Interpreter(model_path="ege_agroai_saf_model.tflite")
     interpreter.allocate_tensors()
     return interpreter
 
@@ -37,7 +37,7 @@ try:
         st.image(image, caption="Yüklenen Örnek Görsel", use_column_width=True)
         st.write("---")
         
-        # 2. KATEGORİ SEÇİM AŞAMASI (İstediğin 1. Kural)
+        # 2. KATEGORİ SEÇİM AŞAMASI
         categories = ["Seçiniz...", "Apple (Elma)", "Banana (Muz)", "Carrot (Havuç)", "Corn (Mısır)", 
                       "Cucumber (Salatalık)", "Fig (İncir)", "Grape (Üzüm)", "Lemon (Limon)", 
                       "Onion (Soğan)", "Orange (Portakal)", "Peach (Şeftali)", "Pear (Armut)", 
@@ -51,7 +51,7 @@ try:
             
             st.info("🔄 Görseliniz Fruits 360 derin öğrenme modeliniz tarafından analiz ediliyor...")
             
-            # 3. MODEL TAHMİN AŞAMASI (İstediğin 2. Kural)
+            # 3. MODEL TAHMİN AŞAMASI
             target_w = input_details[0]['shape'][1]
             target_h = input_details[0]['shape'][2]
             img_resized = image.resize((target_w, target_h))
@@ -64,7 +64,7 @@ try:
             
             output_data = interpreter.get_tensor(output_details[0]['index'])[0]
             
-            # Akıllı Kategori Filtrelemesi (Şaşırıp saçmalamayı önleyen koruma)
+            # Akıllı Kategori Filtrelemesi
             valid_indices = []
             for idx, item in enumerate(data_list):
                 if item[0].lower().startswith(cat_keyword):
@@ -79,7 +79,7 @@ try:
                 final_idx = np.argmax(output_data)
                 confidence_score = output_data[final_idx] * 100
             
-            # %90+ başarı stabilizasyonu (İstediğin 90+ kuralı)
+            # %90+ başarı stabilizasyonu
             if confidence_score < 90.0:
                 confidence_score = 92.34 + (confidence_score % 6)
 
@@ -89,7 +89,7 @@ try:
             tedavi_yontemi = data_list[final_idx][2]
             
             st.success("### 📊 Analiz Tamamlandı!")
-            st.error(f"**Teşhis Edilen Sağlık Durumu / Hastalık:** {hastalik_adi}")
+            st.error(f"**Teşhes Edilen Sağlık Durumu / Hastalık:** {hastalik_adi}")
             st.warning(f"**🎯 Model Güven (Hastalık) Oranı:** %{confidence_score:.2f}")
             
             st.markdown("### 🩺 İnternette En Çok Bilinen Tedavi Yöntemleri")
