@@ -39,7 +39,7 @@ Cucumber_10|Salatalık Küllemesi|Kükürt bazlı ilaçlar veya potasyum bikarbo
 Cucumber_11|Salatalık Mildiyösü|Nemi düşürün, bakırlı ilaçlar veya mancozeb içerikli fungisit kullanın.
 Cucumber_12|Salatalık Köşeli Yaprak Lekesi|Bakır oksiklorür uygulayın, serayı iyice havalandırın.
 Cucumber_13|Salatalık Mozaik Virüsü|Afitle (yaprak biti) mücadele edin, enfekte bitkileri seradan uzaklaştırın.
-Cucumber_3|Sağlıklı Salatalık|Damlama sulama yapın, yaprakların ıslanmasını engelleyin.
+Cucumber_3|Sağlıklı Salatalık|Damlama sulama yapın, yaprakların ıslanmesini engelleyin.
 Cucumber_4|Salatalık Kök Çürüklüğü|Toprak drenajını artırın, trichoderma harzianum gibi biyolojik ajanlar kullanın.
 Cucumber_5|Salatalık Antraknozu|Sertifikalı tohum kullanın, koruyucu fungisit ilaçlaması yapın.
 Cucumber_6|Salatalık Solgunluğu|Vektör böceklerle (böcek tuzakları) mücadele edin, dayanıklı çeşit seçin.
@@ -126,7 +126,7 @@ Strawberry_Wedge_1|Çilek Antraknozu|Sertifikalı temiz fide kullanın, yağmurl
 Tomato_1|Sağlıklı Domates|Damlama sulama yapın, alt yaprakları budayarak hava akımını artırın.
 Tomato_10|Domates Erken Yanıklığı|Mantar ilacı uygulayın, bitkiyi üstten sulamayın, alt yaprakları seyreltin.
 Tomato_11|Domates Geç Yanıklığı (Mildiyö)|Bakırlı fungisit veya mancozeb kullanın, sık dikim yapmayın, nemi düşürün.
-Tomato_2|Domates Bakteriyel Lekesi|Sertifikalı tohum kullanın, bakır bileşikleri püskürtün, serayı havalandırın.
+Tomato_2|Domates Bakteriyel Lekesi|Sertifikalı tohum kullanın, bakır bileşikleri püskurten, serayı havalandırın.
 Tomato_3|Domates Yaprak Küfü|Sera nemini %70 altında tutun, fanları çalıştırın, koruyucu ilaçlama yapın.
 Tomato_4|Domates Mozaik Virüsü|Enfekte bitkiyi sökün, serada sigara içilmesini yasaklayın, aletleri dezenfekte edin.
 Tomato_6|Domates Küllemesi|Kükürt bazlı mantar ilaçları uygulayın, yabancı ot mücadelesi yapın.
