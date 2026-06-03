@@ -6,7 +6,7 @@ st.set_page_config(page_title="Ege AgroAI - Profesyonel Teşhis", page_icon="�
 
 
 st.title("🌱 Ege AgroAI")
-st.subheader("Bitki Sebze Ve Meyve Hatalıklarının Akıllı Teşhis Sistemi")
+st.subheader("Bitki Sebze Ve Meyve Hastalıklarının Akıllı Teşhis Sistemi")
 st.write("---")
 
 
