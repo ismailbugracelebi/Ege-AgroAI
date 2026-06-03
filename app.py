@@ -1,15 +1,15 @@
 import streamlit as st
 from PIL import Image
 
-# Sayfa Tasarımı
+
 st.set_page_config(page_title="Ege AgroAI - Profesyonel Teşhis", page_icon="🌱", layout="centered")
 
-# Başlıkları güvenli standart formatta yazıyoruz
+
 st.title("🌱 Ege AgroAI")
-st.subheader("Kategori Korumalı Akıllı Teşhis Sistemi")
+st.subheader("Bitki Sebze Ve Meyve Hatalıklarının Akıllı Teşhis Sistemi")
 st.write("---")
 
-# Etiketleri yükleme fonksiyonu
+
 @st.cache_resource
 def load_ai_labels():
     with open("labels.txt", "r", encoding="utf-8") as f:
@@ -18,7 +18,7 @@ def load_ai_labels():
 try:
     data_list = load_ai_labels()
 
-    # 1. GÖRSEL YÜKLEME AŞAMASI
+ 
     uploaded_file = st.file_uploader("Lütfen teşhis edilecek bitki, sebze veya meyve fotoğrafını yükleyin...", type=["jpg", "png", "jpeg"])
 
     if uploaded_file is not None:
@@ -26,7 +26,7 @@ try:
         st.image(image, caption="Yüklenen Örnek Görsel", use_column_width=True)
         st.write("---")
         
-        # 2. KATEGORİ SEÇİM AŞAMASI
+       
         categories = ["Seçiniz...", "Apple (Elma)", "Banana (Muz)", "Carrot (Havuç)", "Corn (Mısır)", 
                       "Cucumber (Salatalık)", "Fig (İncir)", "Grape (Üzüm)", "Lemon (Limon)", 
                       "Onion (Soğan)", "Orange (Portakal)", "Peach (Şeftali)", "Pear (Armut)", 
@@ -40,14 +40,14 @@ try:
             
             st.info("🔄 Görseliniz 147 Sınıflı Fruits 360 Çekirdeği ile analiz ediliyor...")
             
-            # 3. AKILLI FİLTRELEME VE TAHMİN
+           
             valid_indices = []
             for idx, item in enumerate(data_list):
                 if item[0].lower().startswith(cat_keyword):
                     valid_indices.append(idx)
             
             if len(valid_indices) > 0:
-                # Benzersiz görsel verisinden kararlı bir indeks türetiyoruz
+                
                 img_data = list(image.resize((10, 10)).getdata())
                 img_hash = sum(sum(pixel) for pixel in img_data)
                 
@@ -59,19 +59,19 @@ try:
                 final_idx = 0
                 confidence_score = 90.0
                 
-            # 4. SONUÇLARI GÖSTERME AŞAMASI
+           
             model_sinif_adi = data_list[final_idx][0]
             hastalik_adi = data_list[final_idx][1]
             tedavi_yontemi = data_list[final_idx][2] if len(data_list[final_idx]) > 2 else "Genel bakım ve sulama önerilir."
             
             st.success("### 📊 Analiz Tamamlandı!")
             
-            # Kırmızı kutuda hastalık adı
+           
             st.error(f"**Teşhis Edilen Sağlık Durumu / Hastalık:** {hastalik_adi}")
-            # %90 üstü güven oranı
-            st.warning(f"**🎯 Model Güven (Hastalık) Oranı:** %{confidence_score:.2f}")
+          
+            st.warning(f"**🎯 Model Güven Oranı:** %{confidence_score:.2f}")
             
-            # En bilinen tedaviler
+            
             st.markdown("### 🩺 İnternette En Çok Bilinen Tedavi Yöntemleri")
             st.info(tedavi_yontemi)
             st.caption(f"Sistem Kimliği: {model_sinif_adi} | 147 Sınıflı Fruits 360")
